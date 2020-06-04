@@ -1,0 +1,5 @@
+nltk
+wordcloud
+pillow
+matplotlib
+numpy
